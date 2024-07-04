@@ -17,4 +17,4 @@ curl http://10.76.143.36:40041/actuator/busrefresh/vote-demo -X POST
 @REM     exit /b %errorlevel%
 @REM )
 
-echo "update success"
+echo "updatesuccess"
